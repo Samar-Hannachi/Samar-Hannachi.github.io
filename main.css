@@ -28,8 +28,8 @@ h1{
 .button{
     font-size: 2em;
     text-decoration: none;
-    color: #004966;
-    border: #f2f2f2 1px solid;
+    color: #f2f2f2 ;
+    border: #004966 1px solid;
     padding: 10px 20px;
     border-radius: 50px;
     transition: 0.15s ease-in-out;
