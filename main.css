@@ -44,13 +44,13 @@ h1{
 /* nav */
 #nav{
     background: #FEFEE2;
-    color: #fff;
+    color: #f2f2f2;
 }
 
 .menu {
     padding-top:15px;
     height: 40px;
-    background: #004966;
+    background: #FEFEE2;
     color: #fff;
     text-align: center;
     width: 100%;
@@ -72,9 +72,7 @@ h1{
     font-size: 1.5em; 
 }
 
-.main-header{
-	background-image: url('kno.jpeg');
-}
+
 
 
 /* Home */
