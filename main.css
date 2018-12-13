@@ -37,13 +37,13 @@ h1{
 }
 
 .button:hover{
-    background-color: #004966;
+    background-color: #FEFEE2;
     color: #f2f2f2;
     cursor: pointer;
 }
 /* nav */
 #nav{
-    background: #004966;
+    background: #FEFEE2;
     color: #fff;
 }
 
