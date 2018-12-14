@@ -168,14 +168,14 @@ h1{
 
 
 
-.text-experience imga{
+.text-experience img{
     height: 200px;
     padding: 0 50px 50px 20px;
     width: 20%;
     
 }
 
-imga:hover {
+img:hover {
   opacity: 0.4;
   filter: alpha(opacity=100); 
 }
