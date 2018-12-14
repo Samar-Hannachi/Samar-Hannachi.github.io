@@ -166,10 +166,22 @@ h1{
     flex-direction: column;
 }
 
-.grid img {
+.grid img1 {
     width: 20%;
     
     
+}
+
+.text-projects img1{
+    height: 200px;
+    padding: 0 50px 50px 20px;
+    width: 20%;
+    
+}
+
+img1:hover {
+  opacity: 0.4;
+  filter: alpha(opacity=100); 
 }
 
 .grid .responsive{
