@@ -161,19 +161,14 @@ h1{
 }
 
 
-
-
-.text-experience img{
-    height: 200px;
-    padding: 0 50px 50px 20px;
-    width: 20%;
-    
+.grid{
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
 }
 
-img:hover {
-  opacity: 0.4;
-  filter: alpha(opacity=100); 
-}
+
+.grid img { width: 20%; }
 
 .grid .responsive{
     height: 50px;
