@@ -153,11 +153,42 @@ h1{
     top: 10%;
 }
 
-.text-experience h3{
-    font-size:2em;
-    line-height: 1.5em;
-    
 
+
+
+.text-experience p1{
+    font-size:1em;
+    line-height: 1.5em;
+    padding: 2em 0 2em 5em;
+}
+
+.text-experience p3{
+    font-size:0.55em;
+    line-height: 0.75em;
+    color: 	#696969;
+    font-style:italic ;
+    
+  
+}
+.text-experience p4{
+    font-size:10em;
+ 
+    color: black;
+    font-style:italic;
+   
+    
+    
+  
+}
+.grid p4 {
+    font:  bold 1.2rem sans-serif;
+   
+    font-size: 1.2em;
+     padding: 0px 10px 0px 0px  ;
+     float: left;
+}
+p4:before {
+ 
 }
 
 
@@ -168,22 +199,41 @@ h1{
 }
 
 
-.grid img { width: 20%; }
+.grid img { width: 16%;  float: left; padding : 100px 10px 0px 200px;}
 
 .grid .responsive{
     height: 50px;
 }
 
 
-.grid p {
-    font: small-caps bold 1.2rem sans-serif;
-    text-align: center;
+.grid p1 {
+    font:  bold 1.2rem sans-serif;
+   
+    font-size: 1.75em;
+     padding: 100px 10px 50px 0px;
+     float: left;
+     margin:0px;
+}
+.grid p3 {
+
+     padding: 0px;
+    
+     margin:0px;
+}
+
+
+.grid p2 {
+    
+     padding: 100px 243px  ;
+     float: left;
 }
 
 .grid div{
     line-height: 1.8em;
     margin-bottom: 5em;
 }
+
+
 
 /* Projects */
 
@@ -331,7 +381,7 @@ footer p{
     }
     
     #experience{
-        height:1300px;
+        height:100px;
     }
     .text-experience{
         position: relative;
