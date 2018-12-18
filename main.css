@@ -258,9 +258,9 @@ p4:before {
 }
 
 .text-projects img{
-    height: 100px;
+    height: 80px;
     padding: 0 50px 50px 20px;
-    width: 5 px;
+    width: 20 px;
     opacity: 0.9;
     
 }
