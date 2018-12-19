@@ -238,7 +238,7 @@ p4:before {
 /* Projects */
 
 #projects{
-    height: 100vh;
+    height: 130vh;
     text-align: center;
     background-color: #f2f2f2;
     color:#151616;
@@ -260,7 +260,7 @@ p4:before {
 .text-projects img{
     height: 130px;
     padding: 0 50px 50px 20px;
-    width: 14%;
+    width: 12%;
     opacity: 0.9;
     
 }
