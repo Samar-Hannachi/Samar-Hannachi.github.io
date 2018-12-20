@@ -271,13 +271,13 @@ p4:before {
 }
 
 .text-projects .text {
- height: 130px;
-    padding: 0 50px 50px 20px;
-    width: 12%;
+
+    
+
 visibility:hidden;
 }
 
-.text-projects:hover .text {
+.text-projects .text:hover {
 visibility:visible;
 }
 
