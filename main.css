@@ -270,14 +270,14 @@ p4:before {
   filter: alpha(opacity=100); 
 }
 
-#projects .text {
-position:relative;
-bottom:30px;
-left:0px;
+.text-projects .text {
+ height: 130px;
+    padding: 0 50px 50px 20px;
+    width: 12%;
 visibility:hidden;
 }
 
-#projects:hover .text {
+.text-projects:hover .text {
 visibility:visible;
 }
 
